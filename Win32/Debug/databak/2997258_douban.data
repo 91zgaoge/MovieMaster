@@ -1,0 +1,771 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":9.1,
+    "stars":"45",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":32,
+  "douban_site":"",
+  "year":"",
+  "images":{
+    "small":"http://img3.douban.com/spic/s4709641.jpg",
+    "large":"http://img3.douban.com/lpic/s4709641.jpg",
+    "medium":"http://img3.douban.com/mpic/s4709641.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/2997258/",
+  "id":"2997258",
+  "mobile_url":"https://movie.douban.com/subject/2997258/mobile",
+  "title":"\"The X Files\"  Season 2, Episode 25: Anasazi",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/2997258",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":[],
+  "collect_count":104,
+  "casts":[],
+  "current_season":null,
+  "original_title":"\"The X Files\"  Season 2, Episode 25: Anasazi",
+  "summary":"印地安人纳瓦荷保留区，发生地震，埋在沙漠中的外星人遗骸露了出来。\n穆德生病了，孤枪侠来找他，因为思考者不小心破解了MJ档案的密码，他拷贝了一份，但他只愿跟穆德说这件事。穆德前去见第一次出场的思考者，拿到了份档案。\n没想到回到办公室，居然是乱码一堆，穆德很生气，史卡利则发现这是他父亲曾教过她的纳瓦荷语的编辑，这是很难破解的，穆德请她想办法，另一方面生病又生气的穆德，居然跟史基纳打了起来。\n另一方面癌人来看穆德的父亲比尔，他们原是旧识，癌人希望比尔能阻止穆德。\n史卡利来看穆德，发觉他实在病的不轻，她被上级警告，知情不报就一起处份，但她害怕穆德没有说实话。\n穆德被爸爸叫去，史卡利来他家没找到人，却被暗枪打伤。穆德的父亲想了很久，决定将所有的事都告诉穆德，但在他还没开口之前，就被克莱区克杀死。\n伤心无助的穆德投靠史卡利，他发了高烧，史卡利照顾他～她发现穆德是被人下了药，所以才会生病易怒，为了避免穆德犯下致命的错误，史卡利开枪阻止穆德。\n她带他去见纳瓦荷老人亚伯霍斯丁，他会帮忙翻译文件，但是史卡利只能帮到这里，以后一切要靠穆德自己……",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    }
+  ],
+  "comments_count":11,
+  "ratings_count":76,
+  "aka":["外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）"],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    }
+  ],
+  "aka":["外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）"],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    }
+  ],
+  "aka":["外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）"],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    }
+  ],
+  "aka":["外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）"],
+  "countries":["美国","美国","美国","美国"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    }
+  ],
+  "aka":["外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）"],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    }
+  ],
+  "aka":["外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）","外星档案（上）"],
+  "countries":["美国","美国"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"R.W. Goodwin",
+      "id":null
+    }
+  ],
+  "aka":["外星档案（上）","外星档案（上）"]
+}

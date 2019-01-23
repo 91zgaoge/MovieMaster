@@ -1,0 +1,102 @@
+unit Unit2;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,   Vcl.ComCtrls,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, DateUtils,Vcl.StdCtrls;
+
+type
+  TForm2 = class(TForm)
+    IdEdit: TEdit;
+    Button1: TButton;
+    Button2: TButton;
+    Label1: TLabel;
+    Label2: TLabel;
+    lbl1: TLabel;
+    edtcnameedt: TEdit;
+    lbl2: TLabel;
+    edtonameedt: TEdit;
+    lbl3: TLabel;
+    edtyearedt3: TEdit;
+    lbl4: TLabel;
+    edtcountryedt: TEdit;
+    chk1: TCheckBox;
+    chk2: TCheckBox;
+    edtjiedt: TEdit;
+    procedure FormShow(Sender: TObject);
+    procedure chk1Click(Sender: TObject);
+    procedure IdEditChange(Sender: TObject);
+    procedure edtjiedtChange(Sender: TObject);
+    procedure edtcnameedtChange(Sender: TObject);
+    procedure edtonameedtChange(Sender: TObject);
+    procedure edtyearedt3Change(Sender: TObject);
+    procedure edtcountryedtChange(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form2: TForm2;
+
+implementation
+
+{$R *.dfm}
+ uses unit1;
+procedure TForm2.chk1Click(Sender: TObject);
+begin
+Form2.IdEdit.Text :='X' + VarToStr(DateTimeToUnix(Now)*(1002+ Random(20) )) ;
+end;
+
+procedure TForm2.edtcnameedtChange(Sender: TObject);
+begin
+TtmpFilmData.ForceName('title').AsString  :=form2.edtcnameedt .Text;
+end;
+
+procedure TForm2.edtcountryedtChange(Sender: TObject);
+
+begin
+TtmpFilmData.ForceName('countries').AsArray  :='["' +form2.edtcountryedt.Text +'"]';
+end;
+
+procedure TForm2.edtjiedtChange(Sender: TObject);
+begin
+TtmpFilmData.ForceName('seq').AsString :=form2.edtjiedt .Text;
+end;
+
+procedure TForm2.edtonameedtChange(Sender: TObject);
+begin
+TtmpFilmData.ForceName('original_title').AsString :=form2.edtonameedt .Text;
+end;
+
+procedure TForm2.edtyearedt3Change(Sender: TObject);
+begin
+TtmpFilmData.ForceName('year').AsString:=form2.edtyearedt3 .Text;
+end;
+
+procedure TForm2.FormShow(Sender: TObject);
+var
+
+  Item: TListItem;
+begin
+  if Form1.listview1.SelCount > 0 then
+    begin
+      Item := Form1.listview1.Selected;
+      form2.IdEdit.Text:=Item.subitems.strings[4];
+      form2.edtcnameedt.Text := Item.Caption   ;
+      Form2.edtonameedt .text:=Item.subitems.strings[0];
+      Form2.edtyearedt3 .text:=Item.subitems.strings[1];
+      Form2.edtjiedt  .text:=Item.subitems.strings[2];
+    end;
+
+form2.IdEdit.SetFocus;
+end;
+
+procedure TForm2.IdEditChange(Sender: TObject);
+begin
+TtmpFilmData.ForceName('id').AsString :=form2.IdEdit.Text;
+end;
+
+end.

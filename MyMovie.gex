@@ -1,0 +1,14 @@
+[General]
+Name=MyMovie
+Project=1
+[Classes]
+Count=9
+Class0="TForm1","TForm","Unit1","0","E:\mywork\Mymoviemaster\Unit1.pas"
+Class1="T7zStream","TInterfacedObject, IInStream, IStreamGetSize,  ISequentialOutStream, ISequentialInStream, IOutStream, IOutStreamFlush","sevenzip","0","E:\mywork\Mymoviemaster\sevenzip.pas"
+Class2="T7zPlugin","TInterfacedObject","sevenzip","0","E:\mywork\Mymoviemaster\sevenzip.pas"
+Class3="T7zCodec","T7zPlugin, I7zCodec, ICompressProgressInfo","sevenzip","0","E:\mywork\Mymoviemaster\sevenzip.pas"
+Class4="T7zArchive","T7zPlugin","sevenzip","0","E:\mywork\Mymoviemaster\sevenzip.pas"
+Class5="T7zInArchive","T7zArchive, I7zInArchive, IProgress, IArchiveOpenCallback,  IArchiveExtractCallback, ICryptoGetTextPassword, IArchiveOpenVolumeCallback,  IArchiveOpenSetSubArchiveName","sevenzip","0","E:\mywork\Mymoviemaster\sevenzip.pas"
+Class6="T7zOutArchive","T7zArchive, I7zOutArchive, IArchiveUpdateCallback, ICryptoGetTextPassword2","sevenzip","0","E:\mywork\Mymoviemaster\sevenzip.pas"
+Class7="T7zBatchItem","","sevenzip","1364","E:\mywork\Mymoviemaster\sevenzip.pas"
+Class8="TForm2","TForm","Unit2","0","E:\mywork\Mymoviemaster\Unit2.pas"

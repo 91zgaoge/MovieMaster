@@ -1,0 +1,136 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":8.1,
+    "stars":"40",
+    "min":0
+  },
+  "reviews_count":2,
+  "wish_count":1320,
+  "douban_site":"",
+  "year":"2015",
+  "images":{
+    "small":"http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2278715771.jpg",
+    "large":"http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2278715771.jpg",
+    "medium":"http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2278715771.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/26654456/",
+  "id":"26654456",
+  "mobile_url":"https://movie.douban.com/subject/26654456/mobile",
+  "title":"潜行追踪 第一季",
+  "do_count":120,
+  "share_url":"http://m.douban.com/movie/subject/26654456",
+  "seasons_count":2,
+  "schedule_url":"",
+  "episodes_count":"6",
+  "countries":["英国","英国","英国","英国"],
+  "genres":["真人秀","真人秀","真人秀","真人秀"],
+  "collect_count":360,
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Emily Gredge",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Ricky Allan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Julie Clegg",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Emily Gredge",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Ricky Allan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Julie Clegg",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Emily Gredge",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Ricky Allan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Julie Clegg",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Emily Gredge",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Ricky Allan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Julie Clegg",
+      "id":null
+    }
+  ],
+  "current_season":"1",
+  "original_title":"Hunted",
+  "summary":"《潜行追踪》是一部纪实性真人秀。节目找来普通人隐匿之后，让由反恐专家或前特务机构工作人员组成追踪专家团队，通过他们的住家、社交痕迹、手机通讯记录，寻找出他们隐匿之处。",
+  "subtype":"tv",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Dan Gonzalez",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Dan Gonzalez",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Dan Gonzalez",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Dan Gonzalez",
+      "id":null
+    }
+  ],
+  "comments_count":144,
+  "ratings_count":349,
+  "aka":[]
+}

@@ -1,0 +1,743 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":0,
+    "stars":"00",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":2,
+  "douban_site":"",
+  "year":"1990",
+  "images":{
+    "small":"http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2270849758.jpg",
+    "large":"http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2270849758.jpg",
+    "medium":"http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2270849758.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/5114215/",
+  "id":"5114215",
+  "mobile_url":"https://movie.douban.com/subject/5114215/mobile",
+  "title":"Twisted Justice",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/5114215",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情"],
+  "collect_count":3,
+  "casts":[],
+  "current_season":null,
+  "original_title":"Twisted Justice",
+  "summary":"",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    }
+  ],
+  "comments_count":1,
+  "ratings_count":0,
+  "aka":[],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    }
+  ],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    }
+  ],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    }
+  ],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情","动作","犯罪","剧情"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    }
+  ],
+  "countries":["美国","美国"],
+  "genres":["动作","犯罪","剧情","动作","犯罪","剧情"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Heavener",
+      "id":null
+    }
+  ]
+}

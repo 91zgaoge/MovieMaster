@@ -1,0 +1,24 @@
+﻿{
+  "MovieHere":";E:\\movie\\;",
+  "Movie-search-mini-size-MB":128,
+  "SubLanSort":"双语;简体;chs;cht;eng",
+  "SubTeamSort":"yyets;衣柜;深影;伊甸园;猪猪",
+  "deltxttitle":"uk|tsks|1080p|hbo|bbc|tvn|Marvels|大河ドラマ|BD720P|高清",
+  "Subonlycheck":0,
+  "PathFindTime":1,
+  "InfFindTime":1,
+  "SubFindTime":1,
+  "GetseatchDoubanUrl":"https://api.douban.com/v2/movie/search?q=#",
+  "GetseatchshooterUrl":"https://api.assrt.net/v1/sub/search?token=7ycnKK0e70S4lSUIkaiH9je16sLSYek6&q=#&cnt=15&pos=0",
+  "Movie-ext":".mkv;.mp4;.ts;.avi;.mpg;.mpeg;.tp;.rmvb",
+  "subhd":{
+    "search-url":"http://www.subhd.com/search/",
+    "downsub-url":"http://subhd.com/ajax/down_ajax",
+    "Accept":"application/json, text/javascript, */*; q=0.01",
+    "AcceptEncoding":"gzip, deflate",
+    "ContentType":"application/x-www-form-urlencoded; charset=UTF-8",
+    "UserAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0"
+  },
+  "SubWebSite":1,
+  "Refresh-time.E:\\movie\\":1547219743
+}

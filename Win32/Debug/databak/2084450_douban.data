@@ -1,0 +1,3959 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":5.8,
+    "stars":"30",
+    "min":0
+  },
+  "reviews_count":6,
+  "wish_count":469,
+  "douban_site":"",
+  "year":"2007",
+  "images":{
+    "small":"http://img6.douban.com/spic/s2412230.jpg",
+    "large":"http://img6.douban.com/lpic/s2412230.jpg",
+    "medium":"http://img6.douban.com/mpic/s2412230.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/2084450/",
+  "id":"2084450",
+  "mobile_url":"https://movie.douban.com/subject/2084450/mobile",
+  "title":"纹身师",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/2084450",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡"],
+  "genres":["恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚"],
+  "collect_count":893,
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "current_season":null,
+  "original_title":"The Tattooist",
+  "summary":"一个男人走下幽暗的阶梯，找到了蜷缩在阴暗的角落的孩子，抓住他的手，撩起了男孩的袖子——那里有\n一个纹身：毒蛇和六芒星。\n“天哪，这是魔鬼的象征。”男孩的父亲痛苦地说，随后抽出了一把刀，一边祈祷着一边将男孩手上\n的皮削了下来。\n已经成年的男人从梦中惊醒，他的左手还留着当年的伤疤，不过别的地方已经满是纹身。他拿起一个\n工具箱走出了房间。\n豪宅，中国人，房间的门口放着一尊插满香的香炉，床上躺着一个似乎已经奄奄一息的孩子。\n“他需要一个医生。”男人这么说。\n“他需要一个纹身。”中国人将一个装满钱的信封给了他。男人坐下，拿出工具，开始在男孩的胸口\n纹，纹完之后这个男孩看上去似乎好些了。\n纹身博览会，男人看见了一个吸引他的女人，紧随而去，进入了一个萨摩人的纹身帐篷，里面的人正\n在用最古老的方法纹身，没有电动的针，只有一把小小的类似筢子的刀，随着一下下敲击，鲜血流出，墨\n汁流入，于是留下了永不磨灭的印记。\n男人问“纹身真的有医疗的力量么？”\n其中领头的一个站起来“你真的相信么？”\n男人走出帐篷，看见外面的陈列架里放着一把似乎很旧却很精致的纹身刀，于是趁人不注意把它顺走\n了。\n男人走出博览会，雨中那个前不久刚见过的中国人向他冲来，“你的纹身失败了！我的孩子！我的孩\n子！”两人在扭打中男人的东西掉落在地上，而在他捡的时候那刚刚顺来的纹身刀扎伤了他的手心。\n梦，黑影，父亲，那在手上划过的刀，男人再一次惊醒，随后走到洗手台边洗脸洗手，上口的血滴下\n来，在水中打旋，突然生出奇怪的变化，定睛去看却没了，男人抬起头，却在镜子中看见一个黑影，回头\n看去，空无一物。\n随后他去了新西兰，奥克兰，他就是在那里学会的纹身。\n他很容易就在原来的老师的店里找到了一份工作，那天他给四个人纹了身，一个为了爱人而来纹身的\n男人，一对亚裔的姐弟，弟弟还没到18岁，还有一个全身都几乎纹满的老人。\n随后他出发去寻找那个曾经吸引他的女孩。\n路上一个孩子对他说“你身后有东西跟着。你看不见它不表示它不存在。”\n虽然是萨摩人，但是女孩却在教堂工作，男人和她一起去了一个奇怪的萨摩家庭，那个破败的房子里\n住着一个易怒的，身上带有引人注目的萨摩传统纹身的中年男人。\n女孩告诉他，这家人一直生活在羞愧中，因为他们的孩子有一次出去之后就再也没有回来。\n女孩还带他去了一个萨摩的聚会，聚会上他见到了女孩的叔叔，那把刺伤他的纹身刀其实就是他的，\n不过男人当时并不知道，不过他还是注意到了那房子后面的一间小屋子和紧逼的房门。\n最后他离开的时候，女孩给了他一朵红花。\n回到家，男人又在镜中看到了若有若无的倒影，随后他听到了浴室中的水声，走过去，打开门……\n他纹过的那个亚裔女孩正在洗澡。\n那个女孩邀请男人去自己弟弟的生日派对，而男人去了，不过没说几句话就不欢而散，男人坐在车上\n，却怎么也发动不起来，这时他听到了纹身时的敲击声，突然看到手上的伤口滴出墨汁。\n这时那个被丢到游泳池中的亚裔少年突然沉入水中，血和墨汁一起从不知道什么地方涌出来，将一池\n水染黑。\n男人再看手上的伤口，已经不流血了，于是他开车走了，丝毫不知道那个少年已经死了。\n少年被众人抬了上来，黑色的纹身如同血管一样从他的胸口扩散开来，布满了全身，不断地渗出墨汁\n。\n当晚男人和那个女孩共度良宵，并在她的背上纹下一朵红花。\n而那个他第一个纹的顾客被自己的妻子发现死在浴室里，身上也布满了黑色的血管样的纹身。\n第二天，男人外出回家后，发现那对亚裔姐弟的姐姐正在家中等他，愤怒地她责问那纹身到底是什么\n，而此时他接到了另一个顾客的电话，此时男人察觉到了情况的不妙，便出门去找那个顾客了。\n而留在家中的亚裔女子对着镜子撩开了衣服，看见了她不想看见的东西。\n男人到了那个顾客家里，发现他也已经被墨汁所覆盖，并且不久后就在惊惧中死去了。\n他赶到家，亚裔女子正在浴室里，想用铁丝球把自己小腹上的纹身擦掉，但是男人的到来让纹身快速\n生长起来。\n医院，女子身上不断有墨汁涌出，而她的生命也在渐渐流逝，在镜子中男人看见一个黑色的，仿佛由\n墨汁组成的人形附在女子身上，替她纹身。\n而随着这个人行的动作，女子身上的皮肤不断绽裂开来，涌出更多的墨汁。\n点滴，心脏起博，医生所做的一切只是在延长女子的痛苦，最后女子的脸和眼球都裂了开来，鲜血四\n溅。\n男人飞速跑出了医院，因为他还替一个人纹过身，那个他爱的女孩。\n但是女孩身上的纹身也已经开始扩散了。\n男人去找到了开始看到自己身后的东西的孩子，让他弄清楚那究竟代表什么。\n他们坐在车上，在高速上飞驰，飞驰，飞驰，车上的音响也越开越大，最后那个男孩突然爆发出来，\n那恶灵附在了他的身上。\n它要报复，要报复那个让他蒙羞的人。",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    }
+  ],
+  "comments_count":173,
+  "ratings_count":614,
+  "aka":["刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师"],
+  "countries":["新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡"],
+  "genres":["恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚"],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    }
+  ],
+  "aka":["刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师"],
+  "countries":["新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡"],
+  "genres":["恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    }
+  ],
+  "aka":["刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师"],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "countries":["新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡"],
+  "genres":["恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    }
+  ],
+  "aka":["刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师"],
+  "countries":["新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡","新西兰","新加坡"],
+  "genres":["恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚","恐怖","惊悚"],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    }
+  ],
+  "aka":["刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师","刺身者","纹身师"],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "countries":["新西兰","新加坡","新西兰","新加坡"],
+  "genres":["恐怖","惊悚","恐怖","惊悚"],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Peter Burger",
+      "id":null
+    }
+  ],
+  "aka":["刺身者","纹身师","刺身者","纹身师"],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img6.douban.com/img/celebrity/small/7616.jpg",
+        "large":"http://img6.douban.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img6.douban.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ],
+  "casts":[
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    },
+    {
+      "alt":"https://movie.douban.com/celebrity/1013810/",
+      "avatars":{
+        "small":"http://img3.doubanio.com/img/celebrity/small/7616.jpg",
+        "large":"http://img3.doubanio.com/img/celebrity/large/7616.jpg",
+        "medium":"http://img3.doubanio.com/img/celebrity/medium/7616.jpg"
+      },
+      "name":"杰森·贝尔",
+      "id":"1013810"
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mia Blake",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"David Fane",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Robbie Magasiva",
+      "id":null
+    }
+  ]
+}

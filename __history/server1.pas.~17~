@@ -1,0 +1,238 @@
+unit server1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes,
+  Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, Vcl.StdCtrls,
+  FileCtrl, IOUtils, Types, RegularExpressions, StrUtils, Math, qjson, qstring,
+  ExtActns, iduri, httpapp, qworker, QXML, ExtCtrls, DateUtils, Vcl.Menus,
+  RzCommon, RzLookup, ShellAPI, IdHTTP, System.Net.HttpClient, IdBaseComponent,
+  IdComponent, IdTCPConnection, IdTCPClient, sevenzip, Vcl.Mask, RzEdit,
+  RzSpnEdt, // indy
+  IdSync,
+  // sgcWebSockets
+  sgcWebSocket_Classes, sgcWebSocket_Server, sgcWebSocket,
+  sgcWebSocket_Protocol_Base_Server, sgcWebSocket_Protocol_Files_Server,
+  sgcWebSocket_Protocols, sgcWebSocket_Types,
+  sgcWebSocket_Protocol_Files_Message, sgcWebSocket_Classes_Indy;
+
+
+
+type
+  TForm1 = class(TForm)
+    Server: TsgcWebSocketServer;
+    server_files: TsgcWSPServer_Files;
+    btn1: TButton;
+    btn2: TButton;
+    mmo1: TMemo;
+    mmo2: TMemo;
+    pb1: TProgressBar;
+    pb2: TProgressBar;
+    procedure btn1Click(Sender: TObject);
+    procedure server_filesConnect(Connection: TsgcWSConnection);
+    procedure server_filesDisconnect(Connection: TsgcWSConnection; Code: Integer);
+    procedure server_filesFileReceived(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile);
+    procedure server_filesFileReceivedError(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile; const Error: string);
+    procedure server_filesFileReceivedFragment(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile; var Cancel: Boolean);
+    procedure server_filesFileSent(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile);
+    procedure server_filesFileSentAcknowledgment(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile);
+    procedure server_filesFileSentError(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile; const Error: string);
+    procedure server_filesFileSentFragmentRequest(const aMessage: TsgcWSMessageFile; var Cancel: Boolean);
+    procedure pbFileSent1EndDrag(Sender, Target: TObject; X, Y: Integer);
+    procedure pbFileSentEnter(Sender: TObject);
+  private
+    { Private declarations }
+    FGuid: string;
+    FMessage: TsgcWSMessageFile;
+    FText: string;
+    procedure DoFileSentFragment;
+    procedure DoFileReceivedFragment;
+    procedure DoLog;
+    procedure DoSendFile;
+    procedure DoBroadcastFile;
+    procedure DoStart;
+    procedure DoStop;
+    procedure DoSyncLog(const aText: string);
+    const
+  SELDIRHELP = 1100;
+
+type
+  TmoviezFile = record
+    filename: string;   //      原始文件名含全路径
+    oname: string;   //      文件名（无扩展名）
+    ext: string;   //      扩展名
+    path: string;   //      原始文件路径
+    beename: string;   //      由文件名判断得出的电影、剧名
+    cnname: string;   //      豆瓣电影、剧名
+    cnoname: string;   //      豆瓣原电影、剧名
+    sep: string;      //        季集
+    year: string;      //         年份
+    fcreatime: string;      //         创建时间
+    doubanid: string;      //         豆瓣ID号
+    fhash: string;      //         原始文件指纹
+    srtYN: Boolean;      //         字幕有无
+    ver: string;           //  版本WEB-DL
+    others: string; //      备注
+    encoder: string;  //        小组
+    resolution: string; //          分辨率1080P
+    videoBite: string;    //                   编码H264
+  end;
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.btn1Click(Sender: TObject);
+begin
+
+  Form1.Server.Active := true;
+  ;
+//Form1.sgcWebSocketServer1.Start;
+end;
+
+procedure TForm1.DoBroadcastFile;
+var
+  oDialog: TOpenDialog;
+begin
+  oDialog := TOpenDialog.Create(nil);
+  try
+    if oDialog.Execute then
+      server_files.BroadcastFile(oDialog.FileName, '', 'test');
+  finally
+    FreeAndNil(oDialog);
+  end;
+end;
+
+procedure TForm1.DoFileReceivedFragment;
+begin
+  //lblFileReceived.Caption := FMessage.FileName + ' ' + IntToStr(FMessage.FilePosition);
+
+ // progFileReceived.Position := FMessage.FilePosition;
+ // progFileReceived.Max := FMessage.FileSize;
+end;
+
+procedure TForm1.DoFileSentFragment;
+begin
+  lblFileSent.Caption := FMessage.FileName + ' ' + IntToStr(FMessage.FilePosition);
+
+ // progFileSent.Position := FMessage.FilePosition;
+ // progFileSent.Max := FMessage.FileSize;
+end;
+
+procedure TForm1.DoLog;
+begin
+ // memoLog.Lines.Add(FormatDateTime('hh:nn:ss', Now) + ': ' + FText);
+end;
+
+procedure TForm1.DoSendFile;
+var
+  oDialog: TOpenDialog;
+begin
+  oDialog := TOpenDialog.Create(nil);
+  try
+    if oDialog.Execute then
+      server_files.SendFile(FGuid, oDialog.FileName);
+  finally
+    FreeAndNil(oDialog);
+  end;
+end;
+
+procedure TForm1.DoStart;
+begin
+ // server_files.Files.BufferSize := TrackSize.Position;
+ // server_files.Files.QoS.Level := TwsQoS(Ord(cboQoS.ItemIndex));
+  server_files.Files.SaveDirectory := ExtractFilePath(Application.ExeName);
+
+ // server.Port := StrToInt(txtPort.Text);
+  server.NotifyEvents := neNoSync;
+  server.Active := True;
+
+  DoSyncLog('Server Started');
+end;
+
+procedure TForm1.DoStop;
+begin
+  server.Active := False;
+
+  DoSyncLog('Server Stopped');
+end;
+
+procedure TForm1.DoSyncLog(const aText: string);
+begin
+  FText := aText;
+
+  TIdNotify.NotifyMethod(DoLog);
+end;
+
+procedure TForm1.pbFileSent1EndDrag(Sender, Target: TObject; X, Y: Integer);
+begin
+//
+end;
+
+procedure TForm1.pbFileSentEnter(Sender: TObject);
+begin
+//
+end;
+
+procedure TForm1.server_filesConnect(Connection: TsgcWSConnection);
+begin
+  FGuid := Connection.Guid;
+
+  DoSyncLog('Connected: ' + Connection.Guid);
+end;
+
+procedure TForm1.server_filesDisconnect(Connection: TsgcWSConnection; Code: Integer);
+begin
+  FGuid := '';
+
+  DoSyncLog('Disconnected: ' + Connection.Guid);
+end;
+
+procedure TForm1.server_filesFileReceived(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile);
+begin
+  DoSyncLog('File ' + aMessage.FileName + ' has been received successfully.');
+end;
+
+procedure TForm1.server_filesFileReceivedError(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile; const Error: string);
+begin
+  DoSyncLog('File Received Error ' + aMessage.FileName + ': ' + Error);
+end;
+
+procedure TForm1.server_filesFileReceivedFragment(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile; var Cancel: Boolean);
+begin
+  FMessage := aMessage;
+
+  TIdNotify.NotifyMethod(DoFileReceivedFragment);
+end;
+
+procedure TForm1.server_filesFileSent(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile);
+begin
+  DoSyncLog('File ' + aMessage.FileName + ' has been sent successfully.');
+end;
+
+procedure TForm1.server_filesFileSentAcknowledgment(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile);
+begin
+  DoSyncLog('Received Acknowledgment ' + aMessage.Id);
+end;
+
+procedure TForm1.server_filesFileSentError(Connection: TsgcWSConnection; const aMessage: TsgcWSMessageFile; const Error: string);
+begin
+  DoSyncLog('File Sent Error ' + aMessage.FileName + ': ' + Error);
+end;
+
+procedure TForm1.server_filesFileSentFragmentRequest(const aMessage: TsgcWSMessageFile; var Cancel: Boolean);
+begin
+  FMessage := aMessage;
+
+  TIdNotify.NotifyMethod(DoFileSentFragment);
+end;
+
+end.
+

@@ -1,0 +1,777 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":3.4,
+    "stars":"20",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":560,
+  "douban_site":"",
+  "year":"2014",
+  "images":{
+    "small":"http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2170724856.jpg",
+    "large":"http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2170724856.jpg",
+    "medium":"http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2170724856.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/25830673/",
+  "id":"25830673",
+  "mobile_url":"https://movie.douban.com/subject/25830673/mobile",
+  "title":"童媱",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/25830673",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色"],
+  "collect_count":154,
+  "casts":[],
+  "current_season":null,
+  "original_title":"비밀과외",
+  "summary":"It's not...something you should say...\nYou always bring women home...\nJeong-soo is far from getting his grades up after he breaks up with his girlfriend so his father gets him a tutor (Yoo-jin).\nLet's go to your room to study.\nJeong-soo thinks Yoo-jin is just one of his father's many women and she approaches him with kindness.\nOrdinary love...like everyone else....\nJeong-soo wasn't good at ordinary love and starts getting special lessons from Yoo-jin.\nAs they get closer, he feels something lingering in his heart...",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    }
+  ],
+  "comments_count":38,
+  "ratings_count":101,
+  "aka":["Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor"],
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["情色","情色","情色","情色","情色","情色","情色","情色"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    }
+  ],
+  "aka":["Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor"],
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    }
+  ],
+  "aka":["Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor"],
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["情色","情色","情色","情色","情色","情色","情色","情色"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    }
+  ],
+  "aka":["Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor"],
+  "countries":["韩国","韩国","韩国","韩国"],
+  "genres":["情色","情色","情色","情色"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    }
+  ],
+  "aka":["Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor"],
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色","情色"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    }
+  ],
+  "aka":["Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor","Secret Tutor"],
+  "countries":["韩国","韩国"],
+  "genres":["情色","情色"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Mr. L",
+      "id":null
+    }
+  ],
+  "aka":["Secret Tutor","Secret Tutor"]
+}

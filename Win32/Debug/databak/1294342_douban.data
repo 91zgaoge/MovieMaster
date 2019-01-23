@@ -1,0 +1,136 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":0,
+    "stars":"00",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":10,
+  "douban_site":"",
+  "year":"1995",
+  "images":{
+    "small":"http://img7.doubanio.com/spic/s3257030.jpg",
+    "large":"http://img7.doubanio.com/lpic/s3257030.jpg",
+    "medium":"http://img7.doubanio.com/mpic/s3257030.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/1294342/",
+  "id":"1294342",
+  "mobile_url":"https://movie.douban.com/subject/1294342/mobile",
+  "title":"Once Upon a Time... When We Were Colored",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/1294342",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["美国","美国","美国","美国"],
+  "genres":["剧情","爱情","剧情","爱情","剧情","爱情","剧情","爱情"],
+  "collect_count":1,
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Al Freeman Jr.",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phylicia Rashad",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Leon",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Al Freeman Jr.",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phylicia Rashad",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Leon",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Al Freeman Jr.",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phylicia Rashad",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Leon",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Al Freeman Jr.",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phylicia Rashad",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Leon",
+      "id":null
+    }
+  ],
+  "current_season":null,
+  "original_title":"Once Upon a Time... When We Were Colored",
+  "summary":"",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"蒂姆 里德 (Tim Reid)",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"蒂姆 里德 (Tim Reid)",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"蒂姆 里德 (Tim Reid)",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"蒂姆 里德 (Tim Reid)",
+      "id":null
+    }
+  ],
+  "comments_count":0,
+  "ratings_count":1,
+  "aka":["从前...当我们变成黑人","从前...当我们变成黑人","从前...当我们变成黑人","从前...当我们变成黑人"]
+}

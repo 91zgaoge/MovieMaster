@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/22 14:40:32.000.748,F:\mywork\Mymoviemaster\MyMovie.dproj=F:\mywork\Mymoviemaster\Project1.dproj</Transaction>
+    <Transaction>2016/06/01 09:49:25.000.442,=E:\mywork\Mymoviemaster\Unit2.pas</Transaction>
+    <Transaction>2017/03/24 13:50:55.000.818,=E:\mywork\Mymoviemaster\Unit3.pas</Transaction>
+    <Transaction>2018/04/19 08:42:13.000.126,=E:\mywork\Mymoviemaster\Unit4.pas</Transaction>
+    <Transaction>2018/04/19 08:42:47.000.129,E:\mywork\Mymoviemaster\OpensubtitlesAPI.pas=E:\mywork\Mymoviemaster\Unit4.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="OpensubtitlesAPI.pas"/>
+    <File Path="sevenzip.pas"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

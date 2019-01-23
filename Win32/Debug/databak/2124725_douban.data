@@ -1,0 +1,38 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":0,
+    "stars":"00",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":0,
+  "douban_site":"",
+  "year":"2010",
+  "images":{
+    "small":"http://img3.doubanio.com/f/movie/b6dc761f5e4cf04032faa969826986efbecd54bb/pics/movie/movie_default_small.png",
+    "large":"http://img7.doubanio.com/f/movie/30c6263b6db26d055cbbe73fe653e29014142ea3/pics/movie/movie_default_large.png",
+    "medium":"http://img3.doubanio.com/f/movie/5081e011b4b06f1a8c3735122b38e781bd852ab6/pics/movie/movie_default_medium.png"
+  },
+  "alt":"https://movie.douban.com/subject/2124725/",
+  "id":"2124725",
+  "mobile_url":"https://movie.douban.com/subject/2124725/mobile",
+  "title":"Another Better Tomorrow",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/2124725",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":[],
+  "genres":[],
+  "collect_count":1,
+  "casts":[],
+  "current_season":null,
+  "original_title":"Another Better Tomorrow",
+  "summary":"",
+  "subtype":"movie",
+  "directors":[],
+  "comments_count":0,
+  "ratings_count":0,
+  "aka":[]
+}

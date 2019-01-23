@@ -1,0 +1,1498 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":5.3,
+    "stars":"30",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":46,
+  "douban_site":"",
+  "year":"2014",
+  "images":{
+    "small":"http://img3.douban.com/view/movie_poster_cover/ipst/public/p2199918522.jpg",
+    "large":"http://img3.douban.com/view/movie_poster_cover/lpst/public/p2199918522.jpg",
+    "medium":"http://img3.douban.com/view/movie_poster_cover/spst/public/p2199918522.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/6147273/",
+  "id":"6147273",
+  "mobile_url":"https://movie.douban.com/subject/6147273/mobile",
+  "title":"清儿",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/6147273",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "collect_count":42,
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    }
+  ],
+  "current_season":null,
+  "original_title":"청아",
+  "summary":"A 16 year old Korean girl has to take care of her\ndisabled drunkard father.  She needs money more than\nanyone to support her father so she choose a\ndangerous path on the street to fulfill her needs.\nTherefore, she goes through many different\nunpredictable incidents.",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    }
+  ],
+  "comments_count":9,
+  "ratings_count":38,
+  "aka":["A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl"],
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    }
+  ],
+  "aka":["A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl"],
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    }
+  ],
+  "aka":["A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl"],
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    }
+  ],
+  "aka":["A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl"],
+  "countries":["韩国","韩国","韩国","韩国"],
+  "genres":["剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    }
+  ],
+  "aka":["A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl"],
+  "countries":["韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国","韩国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    }
+  ],
+  "aka":["A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl","A Fresh Girl"],
+  "countries":["韩国","韩国"],
+  "genres":["剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Se-In Kim",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Jung Ho Kim",
+      "id":null
+    }
+  ],
+  "aka":["A Fresh Girl","A Fresh Girl"]
+}

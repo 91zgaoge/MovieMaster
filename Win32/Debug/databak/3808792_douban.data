@@ -1,0 +1,777 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":5.2,
+    "stars":"30",
+    "min":0
+  },
+  "reviews_count":1,
+  "wish_count":209,
+  "douban_site":"",
+  "year":"2009",
+  "images":{
+    "small":"http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1605866518.jpg",
+    "large":"http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p1605866518.jpg",
+    "medium":"http://img3.doubanio.com/view/movie_poster_cover/spst/public/p1605866518.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/3808792/",
+  "id":"3808792",
+  "mobile_url":"https://movie.douban.com/subject/3808792/mobile",
+  "title":"赤裸的野心：色情业一览",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/3808792",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "collect_count":144,
+  "casts":[],
+  "current_season":null,
+  "original_title":"Naked Ambition: An R Rated Look at an X Rated Industry",
+  "summary":"",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    }
+  ],
+  "comments_count":35,
+  "ratings_count":108,
+  "aka":["赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览"],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    }
+  ],
+  "aka":["赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览"],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    }
+  ],
+  "aka":["赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览"],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    }
+  ],
+  "aka":["赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览"],
+  "countries":["美国","美国","美国","美国"],
+  "genres":["纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    }
+  ],
+  "aka":["赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览"],
+  "countries":["美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国","美国"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    }
+  ],
+  "aka":["赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览","赤裸的野心：色情业一览"],
+  "countries":["美国","美国"],
+  "genres":["纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Michael Grecco",
+      "id":null
+    }
+  ],
+  "aka":["赤裸的野心：色情业一览","赤裸的野心：色情业一览"]
+}

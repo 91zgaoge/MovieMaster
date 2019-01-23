@@ -1,0 +1,181 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":7.6,
+    "stars":"40",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":184,
+  "douban_site":"",
+  "year":"2012",
+  "images":{
+    "small":"http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2183499586.jpg",
+    "large":"http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2183499586.jpg",
+    "medium":"http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2183499586.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/21329738/",
+  "id":"21329738",
+  "mobile_url":"https://movie.douban.com/subject/21329738/mobile",
+  "title":"人与自然",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/21329738",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国"],
+  "genres":["动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片","动画","短片"],
+  "collect_count":623,
+  "casts":[],
+  "current_season":null,
+  "original_title":"Man",
+  "summary":"五十万年前，一个身穿“Welcome”上衣的男人来到自然世界。他俨然一副主宰者的姿态，先是一脚踩死微不足道的小虫子，又把双头蛇变成自己的靴子，再是把公鸡当篮球打。他吃羊腿，穿皮衣。男人一路上肆意的让它们为自己服务，甚至猎杀各种动物。他砍伐树木，把垃圾倾倒在海水中。男人如此享受地游历在机械城市里，在这座由垃圾堆积而成的王国中，他就是王。直到乘坐UFO而来的外星人打死他后，只有他身上那行“Welcome”留在垃圾山中，异常醒目。\n这部对“人类文明肆意侵害自然”充满讽刺和调侃的黑色幽默动画短片，由伦敦自由艺术家史蒂夫·卡兹执导。他曾为可口可乐、百加得、丰田、锐步、索尼PSP、菲利普等诸多世界知名品牌制作动画。©豆瓣",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    }
+  ],
+  "comments_count":180,
+  "ratings_count":522,
+  "aka":["人类","人类","人类","人类","人类","人类","人类","人类","人类","人类","人类","人类","人类","人类","人类","人类"],
+  "countries":["英国","英国","英国","英国"],
+  "genres":["动画","短片","动画","短片","动画","短片","动画","短片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    }
+  ],
+  "aka":["人类","人类","人类","人类"],
+  "countries":["英国","英国"],
+  "genres":["动画","短片","动画","短片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Steve Cutts",
+      "id":null
+    }
+  ],
+  "aka":["人类","人类"]
+}

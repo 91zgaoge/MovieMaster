@@ -1,0 +1,141 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 299
+  ClientWidth = 635
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lbl1: TLabel
+    Left = 48
+    Top = 168
+    Width = 70
+    Height = 13
+    Caption = 'lblFileReceived'
+  end
+  object lblFileSent: TLabel
+    Left = 48
+    Top = 112
+    Width = 233
+    Height = 17
+    Caption = 'lblFileSent'
+  end
+  object btn1: TButton
+    Left = 408
+    Top = 212
+    Width = 81
+    Height = 25
+    Caption = 'start'
+    TabOrder = 0
+    OnClick = btn1Click
+  end
+  object btn2: TButton
+    Left = 495
+    Top = 212
+    Width = 75
+    Height = 25
+    Caption = 'stop'
+    TabOrder = 1
+  end
+  object pbFileSent: TProgressBar
+    Left = 24
+    Top = 200
+    Width = 257
+    Height = 17
+    TabOrder = 2
+  end
+  object pbFileSent1: TProgressBar
+    Left = 24
+    Top = 145
+    Width = 257
+    Height = 17
+    TabOrder = 3
+  end
+  object mmoLog: TMemo
+    Left = 24
+    Top = 8
+    Width = 257
+    Height = 89
+    Lines.Strings = (
+      'mmoLog')
+    TabOrder = 4
+  end
+  object mmoLog1: TMemo
+    Left = 344
+    Top = 8
+    Width = 257
+    Height = 89
+    Lines.Strings = (
+      'mmoLog')
+    TabOrder = 5
+  end
+  object Server: TsgcWebSocketServer
+    Port = 8060
+    LoadBalancer.AutoRegisterBindings = False
+    LoadBalancer.AutoRestart = 0
+    LoadBalancer.Enabled = False
+    LoadBalancer.Port = 0
+    Authentication.Enabled = False
+    Authentication.AllowNonAuth = False
+    Authentication.URL.Enabled = True
+    Authentication.Session.Enabled = True
+    Authentication.Basic.Enabled = False
+    Bindings = <>
+    HeartBeat.Enabled = False
+    HeartBeat.Interval = 300
+    HeartBeat.Timeout = 0
+    MaxConnections = 0
+    SSLOptions.Port = 0
+    ThreadPool = False
+    ThreadPoolOptions.MaxThreads = 0
+    ThreadPoolOptions.PoolSize = 32
+    Extensions.DeflateFrame.Enabled = False
+    Extensions.DeflateFrame.WindowBits = 15
+    Extensions.PerMessage_Deflate.Enabled = False
+    Extensions.PerMessage_Deflate.ClientMaxWindowBits = 15
+    Extensions.PerMessage_Deflate.ClientNoContextTakeOver = False
+    Extensions.PerMessage_Deflate.MemLevel = 1
+    Extensions.PerMessage_Deflate.ServerMaxWindowBits = 15
+    Extensions.PerMessage_Deflate.ServerNoContextTakeOver = False
+    FallBack.Flash.Domain = '*'
+    FallBack.Flash.Enabled = False
+    FallBack.Flash.Ports = '*'
+    FallBack.ServerSentEvents.Enabled = False
+    FallBack.ServerSentEvents.Retry = 3
+    Options.FragmentedMessages = frgOnlyBuffer
+    Options.HTMLFiles = True
+    Options.JavascriptFiles = True
+    Options.ReadTimeOut = 10
+    Options.RaiseDisconnectExceptions = True
+    Options.ValidateUTF8 = False
+    QueueOptions.Binary.Level = qmNone
+    QueueOptions.Ping.Level = qmNone
+    QueueOptions.Text.Level = qmNone
+    Specifications.Drafts.Hixie76 = True
+    Specifications.RFC6455 = True
+    NotifyEvents = neAsynchronous
+    LogFile.Enabled = False
+    Throttle.BitsPerSec = 0
+    Throttle.Enabled = False
+    WatchDog.Attempts = 0
+    WatchDog.Enabled = False
+    WatchDog.Interval = 60
+    Left = 296
+    Top = 8
+  end
+  object server_files: TsgcWSPServer_Files
+    Files.BufferSize = 0
+    Files.QoS.Interval = 60
+    Files.QoS.Level = qosLevel0
+    Files.QoS.Timeout = 300
+    Left = 296
+    Top = 72
+  end
+end

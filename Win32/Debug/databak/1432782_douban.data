@@ -1,0 +1,2914 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":8.6,
+    "stars":"45",
+    "min":0
+  },
+  "reviews_count":9,
+  "wish_count":1014,
+  "douban_site":"",
+  "year":"2005",
+  "images":{
+    "small":"http://img3.douban.com/spic/s2369552.jpg",
+    "large":"http://img3.douban.com/lpic/s2369552.jpg",
+    "medium":"http://img3.douban.com/mpic/s2369552.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/1432782/",
+  "id":"1432782",
+  "mobile_url":"https://movie.douban.com/subject/1432782/mobile",
+  "title":"黑色的风采",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/1432782",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "collect_count":732,
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    }
+  ],
+  "current_season":null,
+  "original_title":"Black",
+  "summary":"米歇尔（拉妮·玛克赫吉 Rani Mukherjee 饰）是一位同时失去了听觉与视觉的女孩，对于她来说，世界就是一片无穷无尽的混沌黑暗。不幸的遭遇让米歇尔的心中充满了愤怒却无处发泄，她的脾气愈发暴躁，精神渐渐濒临崩溃的边缘。就在此时，一位名叫德布拉杰（阿米达普·巴强 Amitabh Bachchan 饰）的特教老师出现在了米歇尔的身边，企图帮助这个可怜的女孩。\n德布拉杰不离不弃地守护在米歇尔的身边，渐渐教会了她同世界交流的方式，随着时间的推移，米歇尔终于找到了生命的意义，甚至考上了大学。然而，此时的德布拉杰却患上了帕金森综合症，米歇尔知道她自己应该做些什么。©豆瓣",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    }
+  ],
+  "comments_count":228,
+  "ratings_count":596,
+  "aka":["黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采"],
+  "countries":["India","India","India","India","India","India","India","India"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    }
+  ],
+  "aka":["黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采"],
+  "countries":["India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    }
+  ],
+  "aka":["黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采"],
+  "countries":["India","India","India","India","India","India","India","India"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    }
+  ],
+  "aka":["黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采"],
+  "countries":["India","India","India","India"],
+  "genres":["剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    }
+  ],
+  "aka":["黑色的风采","黑色的风采","黑色的风采","黑色的风采"],
+  "countries":["India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India","India"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    }
+  ],
+  "aka":["黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采","黑色的风采"],
+  "countries":["India","India"],
+  "genres":["剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Amitabh Bachchan",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Rani Mukherjee",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Shernaz Patel",
+      "id":null
+    }
+  ],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Sanjay Leela Bhansali",
+      "id":null
+    }
+  ],
+  "aka":["黑色的风采","黑色的风采"]
+}

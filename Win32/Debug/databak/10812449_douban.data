@@ -1,0 +1,771 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":0,
+    "stars":"00",
+    "min":0
+  },
+  "reviews_count":1,
+  "wish_count":6,
+  "douban_site":"",
+  "year":"2011",
+  "images":{
+    "small":"http://img3.douban.com/spic/s10393063.jpg",
+    "large":"http://img3.douban.com/lpic/s10393063.jpg",
+    "medium":"http://img3.douban.com/mpic/s10393063.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/10812449/",
+  "id":"10812449",
+  "mobile_url":"https://movie.douban.com/subject/10812449/mobile",
+  "title":"男孩米尔",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/10812449",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "collect_count":10,
+  "casts":[],
+  "current_season":null,
+  "original_title":"The Boy Mir: Ten Years in Afghanistan",
+  "summary":"The Boy Mir is documentary film about ten years life of a Hazara boy in Afghanistan.",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    }
+  ],
+  "comments_count":5,
+  "ratings_count":7,
+  "aka":[],
+  "countries":["英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    }
+  ],
+  "countries":["英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    }
+  ],
+  "countries":["英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    }
+  ],
+  "countries":["英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan"],
+  "genres":["纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    }
+  ],
+  "countries":["英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan"],
+  "genres":["纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    }
+  ],
+  "countries":["英国","阿富汗 Afghanistan","英国","阿富汗 Afghanistan"],
+  "genres":["纪录片","纪录片"],
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Phil Grabsky",
+      "id":null
+    }
+  ]
+}

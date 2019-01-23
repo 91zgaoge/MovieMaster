@@ -1,0 +1,811 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":0,
+    "stars":"00",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":46,
+  "douban_site":"",
+  "year":"2000",
+  "images":{
+    "small":"http://img3.douban.com/spic/s3761145.jpg",
+    "large":"http://img3.douban.com/lpic/s3761145.jpg",
+    "medium":"http://img3.douban.com/mpic/s3761145.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/3057518/",
+  "id":"3057518",
+  "mobile_url":"https://movie.douban.com/subject/3057518/mobile",
+  "title":"Doctors 第一季",
+  "do_count":3,
+  "share_url":"http://m.douban.com/movie/subject/3057518",
+  "seasons_count":2,
+  "schedule_url":"",
+  "episodes_count":"",
+  "countries":["英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国","英国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "collect_count":14,
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    }
+  ],
+  "current_season":"1",
+  "original_title":"Doctors",
+  "summary":"",
+  "subtype":"tv",
+  "directors":[],
+  "comments_count":3,
+  "ratings_count":9,
+  "aka":[],
+  "countries":["英国","英国","英国","英国","英国","英国","英国","英国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    }
+  ],
+  "countries":["英国","英国"],
+  "genres":["剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    }
+  ],
+  "countries":["英国","英国","英国","英国","英国","英国","英国","英国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    }
+  ],
+  "countries":["英国","英国","英国","英国","英国","英国","英国","英国"],
+  "genres":["剧情","剧情","剧情","剧情","剧情","剧情","剧情","剧情"],
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Diane Keen",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Christopher Timothy",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Corrinne Wicks",
+      "id":null
+    }
+  ]
+}

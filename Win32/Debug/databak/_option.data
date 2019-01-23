@@ -1,0 +1,38 @@
+﻿{
+  "MovieHere":";E:\\movie\\;",
+  "Movie-search-mini-size-MB":128,
+  "Refresh-time":1463917042,
+  "SubLanSort":"",
+  "SubTeamSort":"",
+  "Subonlycheck":0,
+  "PathFindTime":"0",
+  "InfFindTime":"0",
+  "SubFindTime":"0",
+  "GetseatchDoubanUrl":"https://api.douban.com/v2/movie/search?q=#",
+  "GetseatchshooterUrl":"https://api.assrt.net/v1/sub/search?token=7ycnKK0e70S4lSUIkaiH9je16sLSYek6&q=#&cnt=15&pos=0",
+  "Movie-ext":".mkv;.mp4;.ts;.avi;.mpg;.mpeg;.tp;.rmvb",
+  "subhd":{
+    "search-url":"http://www.subhd.com/search/",
+    "downsub-url":"http://subhd.com/ajax/down_ajax",
+    "Accept":"application/json, text/javascript, */*; q=0.01",
+    "AcceptEncoding":"gzip, deflate",
+    "ContentType":"application/x-www-form-urlencoded; charset=UTF-8",
+    "UserAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0"
+  },
+  "rss":{
+    "Mteam":"https://tp.m-team.cc/torrentrss.php?https=1&rows=50&ismalldescr=1&isize=1&linktype=dl&passkey=068ef259cb36f2af0a2249a2e6285e14&inclbookmarked=1",
+    "ttg":"https://totheglory.im/putrssmc.php?par=dnZ2NDY5MzUsZDdkYjAyZmI1MmFlZDdmYzZiYjVkN2UwNGY4NmM5NjV6eg==",
+    "葡萄":"https://pt.sjtu.edu.cn/torrentrss.php?rows=50&ismalldescr=1&isize=1&linktype=dl&passkey=ef5ded35f645d1dce9c2e1280b1e8057&inclbookmarked=1",
+    "南洋":"https://nanyangpt.com/torrentrss.php?rows=50&ismalldescr=1&isize=1&linktype=dl&passkey=9687e5354d4c5faef708d7cef379a9db&inclbookmarked=1",
+    "hyperay":"http://www.hyperay.cc/cartrss.php?rows=50&linktype=dl&passkey=1e6294dc8263b11f0d2d39624b4a399b&inclcarted=1&ismalldescr=1&isize=1",
+    "hdarea":"http://www.hdarea.co/cartrss.php?rows=50&linktype=dl&passkey=77afca59cb4eb01ae1852a5f2a86ad7d&inclcarted=1&ismalldescr=1&isize=1",
+    "hdtime":"https://hdtime.org/mycarts.php?action=rss&passkey=f6fc173c7f428d773ba0c8959bd83616",
+    "hdsky":"https://hdsky.me/torrentrss.php?rows=50&linktype=dl&inclrssmarked=1&passkey=005c99268ce5632ea3e052cbba4dc8ce&ismalldescr=1&isize=1",
+    "HDu":"http://pt.upxin.net/torrentrss.php?rows=50&ismalldescr=1&isize=1&linktype=dl&passkey=b427ebc5f3c50ab783bfce7a70649c4c&inclbookmarked=1"
+  },
+  "Refresh-time.F:\\movie\\":1463918451,
+  "Refresh-time.E:\\movie-e\\":1464370749,
+  "Refresh-time.D:\\movie-d\\":1463918451,
+  "Refresh-time.E:\\movie\\":1490381980,
+  "deltxttitle":"#|UHD|uk|tsks|1080p|hbo|bbc|tvn|Marvels|大河ドラマ|ocn|KO_cn|KO|uxn|hdtv|壹高清|CN|720P"
+}

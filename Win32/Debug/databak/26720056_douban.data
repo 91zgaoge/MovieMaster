@@ -1,0 +1,63 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":7.6,
+    "stars":"40",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":120,
+  "douban_site":"",
+  "year":"2016",
+  "images":{
+    "small":"http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2322776355.jpg",
+    "large":"http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2322776355.jpg",
+    "medium":"http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2322776355.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/26720056/",
+  "id":"26720056",
+  "mobile_url":"https://movie.douban.com/subject/26720056/mobile",
+  "title":"学长学姐 Secret Love",
+  "do_count":4,
+  "share_url":"http://m.douban.com/movie/subject/26720056",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":"",
+  "countries":["泰国","泰国","泰国","泰国"],
+  "genres":["剧情","爱情","剧情","爱情","剧情","爱情","剧情","爱情"],
+  "collect_count":57,
+  "casts":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Kang Vorakorn",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Kang Vorakorn",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Kang Vorakorn",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"Kang Vorakorn",
+      "id":null
+    }
+  ],
+  "current_season":null,
+  "original_title":"รุ่นพี่ Secret Love",
+  "summary":"这部剧有三对男女主角，分成S，M，L的故事，其中Kang和尼坤小妹Cherreen是M部分的男女主角。\nS（14岁与17岁(mylil boy)）：由Jane Hormones和一个新星Non主演，Jane是高三学姐，新星是初三学弟，高三学姐去追初三学弟。\nM（18岁与22岁(puppyhoney)）：由Kang和Cherreen主演，Kang饰演大四的学长爱养狗，Cherreen饰演大一新生的学妹爱养猫。Kang饰演“Pause” 兽医学院大四的学长，他还担任兽医学院动物保护协会会长，爱养狗。Cherreen饰演“Emma”大一新生，爱猫但是非常怕狗。不知道俩人怎么发生爱情故事，嘿嘿。\nL（24岁与30岁(bakeme love)） ：由Toni 和 Four 主演，他们俩是同一个公司工作哦，然后发生了爱情故事。",
+  "subtype":"tv",
+  "directors":[],
+  "comments_count":25,
+  "ratings_count":53,
+  "aka":[]
+}

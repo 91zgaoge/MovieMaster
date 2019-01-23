@@ -1,0 +1,63 @@
+﻿{
+  "rating":{
+    "max":10,
+    "average":0,
+    "stars":"00",
+    "min":0
+  },
+  "reviews_count":0,
+  "wish_count":13,
+  "douban_site":"",
+  "year":"",
+  "images":{
+    "small":"http://img3.doubanio.com/spic/s4236746.jpg",
+    "large":"http://img3.doubanio.com/lpic/s4236746.jpg",
+    "medium":"http://img3.doubanio.com/mpic/s4236746.jpg"
+  },
+  "alt":"https://movie.douban.com/subject/4724682/",
+  "id":"4724682",
+  "mobile_url":"https://movie.douban.com/subject/4724682/mobile",
+  "title":"我阿媽係外星人2 之怪獸現身",
+  "do_count":null,
+  "share_url":"http://m.douban.com/movie/subject/4724682",
+  "seasons_count":null,
+  "schedule_url":"",
+  "episodes_count":null,
+  "countries":["中国香港","中国香港","中国香港","中国香港"],
+  "genres":[],
+  "collect_count":13,
+  "casts":[],
+  "current_season":null,
+  "original_title":"我阿媽係外星人2 之怪獸現身",
+  "summary":"阿毛從小就有一個疑問：為何媽媽總是這麼萬能？媽媽生完小貝比之後，力量變得更強大，整天不用睡、不用吃…，阿毛反覆的想著，難道媽媽是「外星人」？\nEver wondered how awesome your mom used to be? Mo has been asking this question since the toddling days: how come mom was like almighty? Is she an “ET”?",
+  "subtype":"movie",
+  "directors":[
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"楊倩玲",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"楊倩玲",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"楊倩玲",
+      "id":null
+    },
+    {
+      "alt":null,
+      "avatars":null,
+      "name":"楊倩玲",
+      "id":null
+    }
+  ],
+  "comments_count":5,
+  "ratings_count":8,
+  "aka":["My Mom is an Alien2 - The Monster","My Mom is an Alien2 - The Monster","My Mom is an Alien2 - The Monster","My Mom is an Alien2 - The Monster"]
+}
